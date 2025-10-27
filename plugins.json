@@ -236,8 +236,7 @@
     "repositoryUrl": "https://github.com/Kristen23557/MaiBot-Tarots-Plugin-REBORN"
   },
   {
-    "id": "panzer931_russian_roulette",
-    "repositoryUrl": "https://github.com/panzer931/cj/tree/master/russian_roulette"
+    "id": "panzer931.russian-roulette",
+    "repositoryUrl": "https://github.com/panzer931/maibot-plugin-russian-roulette"
   }
-
 ]
